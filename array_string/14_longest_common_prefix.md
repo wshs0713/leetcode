@@ -1,26 +1,26 @@
-# 14. Longest Common Prefix
+# \[Easy\] 14. Longest Common Prefix
 
 ## Question
 
-[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+[\[Easy\] 14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 
-## 思考
+## Thought
 
-以第一個字串作為 longest prefix 依序往後比較
+以 `strs` 中最短的字串作為 longest prefix 依序比較每個 element.
 
 ## Code
 
 ```python
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
+        if not strs or len(strs) == 0 or '' in strs:
+            return ''
+
         if len(strs) == 1:
             return strs[0]
         
-        if '' in strs:
-            return ''
-        
-        prefix = strs[0]
-        i = 1
+        prefix = min(strs, key=len)
+        i = 0
         
         while (i < len(strs)):
             while (not strs[i].startswith(prefix)):
