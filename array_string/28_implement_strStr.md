@@ -27,18 +27,12 @@ class Solution:
 ```python
 class Solution:
     def strStr(self, haystack: str, needle: str) -> int:
-        if not needle:
-            return 0
-        if not haystack:
-            return -1
-
         index = -1
         len_h = len(haystack)
         len_n = len(needle)
 
-        for i in range(0, len_h):
-            if (haystack[i] == needle[0]) and (haystack[i:i+len_n] == needle):
+        for i in range(0, len_h-len_n+1):
+            if haystack[i:i+len_n] == needle:
                 return i
-
         return index
 ```
