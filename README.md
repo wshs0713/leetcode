@@ -28,6 +28,10 @@ My Leetcode practice.
 
 ## Dynamic Programming
 
+### Easy
+
+- [53. Maximum Subarray](/dynamic_programming/53_maximum_subarray.md)
+
 ## Graph
 
 ## Tree
