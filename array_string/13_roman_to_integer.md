@@ -1,10 +1,10 @@
-# 13. Roman to Integer
+# \[Easy\] 13. Roman to Integer
 
 ## Question
 
-[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+[\[Easy\] 13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 
-## 想法
+## Thought
 
 一次看兩個字元 (`i`, `i+1`)，若 `i+1` 轉換為數字後大於 `i` 轉換為數字，則使用減法，其他情況則是相加。
 
