@@ -11,7 +11,7 @@
 
 ## Code
 
-- 使用 Python `str.index()` 
+- 使用 Python `str.index()`
 
 ```python
 class Solution:

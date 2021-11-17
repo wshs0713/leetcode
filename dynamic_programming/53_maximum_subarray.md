@@ -6,7 +6,7 @@
 
 ## Thought
 
-Dynamic programming
+Dynamic programming, array 中的每一個 element 紀錄前面 subarray 總和最大值，最後再取 array 中的最大值。
 
 ## Code
 
