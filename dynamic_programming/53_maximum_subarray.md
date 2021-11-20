@@ -13,8 +13,10 @@ Dynamic programming, array 中的每一個 element 紀錄前面 subarray 總和�
 ```python
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
+        dp = nums
+        
         for i in range(1, len(nums)):
-            nums[i] = max(nums[i] + nums[i-1], nums[i])
- 
-        return max(nums)
+            dp[i] = max(dp[i-1]+dp[i], dp[i])
+            
+        return max(dp)
 ```
