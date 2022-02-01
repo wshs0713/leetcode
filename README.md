@@ -31,6 +31,8 @@ My Leetcode practice.
 ### Easy
 
 - [53. Maximum Subarray](/dynamic_programming/53_maximum_subarray.md)
+- [509. Fibonacci Number](/dynamic_programming/509_fibonacci_number.md)
+- [1137. N-th Tribonacci Number](/dynamic_programming/1137_N-th_Tribonacci_Number.md)
 
 ## Graph
 
