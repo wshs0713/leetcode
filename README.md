@@ -32,6 +32,7 @@ My Leetcode practice.
 
 - [53. Maximum Subarray](/dynamic_programming/53_maximum_subarray.md)
 - [70. Climbing Stairs](/dynamic_programming/70_climbing_stairs.md)
+- [121. Best Time to Buy and Sell Stock](/dynamic_programming/121_best_time_to_buy_and_sell_stock.md)
 - [338. Counting Bits](/dynamic_programming/338_counting_bits.md)
 - [509. Fibonacci Number](/dynamic_programming/509_fibonacci_number.md)
 - [1025. Divisor Game](/dynamic_programming/1025_divisor_game.md)
