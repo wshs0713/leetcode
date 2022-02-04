@@ -12,7 +12,7 @@ Dynamic programming, 基本上也是一個 fibonacci, array 中的每一個 elem
 
 ```python
 class Solution:
-    def fib(self, n: int) -> int:
+    def climbStairs(self, n: int) -> int:
         dp = [0, 1, 2]
         
         if n < 3:
