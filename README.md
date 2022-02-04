@@ -38,6 +38,11 @@ My Leetcode practice.
 - [1025. Divisor Game](/dynamic_programming/1025_divisor_game.md)
 - [1137. N-th Tribonacci Number](/dynamic_programming/1137_N-th_Tribonacci_Number.md)
 
+### Medium
+
+- [122. Best Time to Buy and Sell Stock II](/dynamic_programming/122_best_time_to_buy_and_sell_stock_2.md)
+- [983. Minimum Cost For Tickets](/dynamic_programming/983_minimum_cost_for_tickets.md)
+
 ## Graph
 
 ## Tree
