@@ -42,8 +42,13 @@ My Leetcode practice.
 
 - [122. Best Time to Buy and Sell Stock II](/dynamic_programming/122_best_time_to_buy_and_sell_stock_2.md)
 - [983. Minimum Cost For Tickets](/dynamic_programming/983_minimum_cost_for_tickets.md)
-- [1641. Count Sorted Vowel Strings](/dynamic_programming/1641_count_sorted_vowel_strings.md)
 
 ## Graph
 
 ## Tree
+
+## Math
+
+### Medium
+
+- [1641. Count Sorted Vowel Strings](/dynamic_programming/1641_count_sorted_vowel_strings.md)
