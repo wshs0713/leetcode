@@ -22,7 +22,16 @@ My Leetcode practice.
 
 ## Sort
 
+### Easy
+
+- [1365. How Many Numbers Are Smaller Than the Current Number](/sort/1365_hot_many_numbers_are_smaller_than_the_current_number.md)
+- [1859. Sorting the Sentence](/sort/1859_sorting_the_sentence.md)
+
 ## DFS & BFS
+
+### Easy
+
+- [104. Maximum Depth of Binary Tree](/dfs_bfs/104_maximum_depth_of_binary_tree.md)
 
 ## Binary Search
 
