@@ -56,7 +56,12 @@ My Leetcode practice.
 ### Medium
 
 - [122. Best Time to Buy and Sell Stock II](/dynamic_programming/122_best_time_to_buy_and_sell_stock_2.md)
+- [322. Coin Change](/dynamic_programming/322_coin_change.md)
 - [983. Minimum Cost For Tickets](/dynamic_programming/983_minimum_cost_for_tickets.md)
+
+### Hard
+
+- [42. Trapping Rain Water](/dynamic_programming/42_trapping_rain_water.md)
 
 ## Graph
 
