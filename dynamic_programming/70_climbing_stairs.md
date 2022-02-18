@@ -2,7 +2,7 @@
 
 ## Question
 
-[\[Easy\] 70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+[[Easy] 70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
 ## Thought
 

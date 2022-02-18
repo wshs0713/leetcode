@@ -1,8 +1,8 @@
-# \[Easy\] 14. Longest Common Prefix
+# [Easy] 14. Longest Common Prefix
 
 ## Question
 
-[\[Easy\] 14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+[[Easy] 14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 
 ## Thought
 

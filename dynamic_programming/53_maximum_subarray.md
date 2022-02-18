@@ -1,8 +1,8 @@
-# \[Easy\] 53. Maximum Subarray
+# [Easy] 53. Maximum Subarray
 
 ## Question
 
-[\[Easy\] 53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+[[Easy] 53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 
 ## Thought
 

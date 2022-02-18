@@ -1,8 +1,8 @@
-# \[Easy\] 13. Roman to Integer
+# [Easy] 13. Roman to Integer
 
 ## Question
 
-[\[Easy\] 13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+[[Easy] 13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 
 ## Thought
 

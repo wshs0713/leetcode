@@ -2,7 +2,7 @@
 
 ## Question
 
-[\[Easy\] 1025. Divisor Game](https://leetcode.com/problems/divisor-game/)
+[[Easy] 1025. Divisor Game](https://leetcode.com/problems/divisor-game/)
 
 ## Thought
 

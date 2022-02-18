@@ -2,7 +2,7 @@
 
 ## Question
 
-[\[Easy\] 338. Counting Bits](https://leetcode.com/problems/counting-bits/)
+[[Easy] 338. Counting Bits](https://leetcode.com/problems/counting-bits/)
 
 ## Thought
 

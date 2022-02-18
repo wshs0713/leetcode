@@ -1,8 +1,8 @@
-# \[Easy\] 28. Implement strStr()
+# [Easy] 28. Implement strStr()
 
 ## Question
 
-[\[Easy\] 28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+[[Easy] 28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 
 ## Thought
 

@@ -2,7 +2,7 @@
 
 ## Question
 
-[\[Medium\] 1641. Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)
+[[Medium] 1641. Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)
 
 ## Thought
 
