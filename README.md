@@ -6,9 +6,15 @@ My Leetcode practice.
 
 ### Easy
 
+- [1. Two Sum](/array_string/1_two_sum.md)
 - [13. Roman to Integer](/array_string/13_roman_to_integer.md)
 - [14. Longest Common Prefix](/array_string/14_longest_common_prefix.md)
 - [28. Implement strStr()](/array_string/28_implement_strStr.md)
+- [344. Reverse String](/array_string/344_reversed_string.md)
+
+### Medium
+
+- [5. Longest Palindromic Substring](/array_string/5_longest_palindromic_substring.md)
 
 ## Linked List
 
