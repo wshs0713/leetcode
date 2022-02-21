@@ -71,4 +71,5 @@ My Leetcode practice.
 
 ### Medium
 
+- [7. Reverse Integer](/math/7_reverse_integer.md)
 - [1641. Count Sorted Vowel Strings](/dynamic_programming/1641_count_sorted_vowel_strings.md)
