@@ -26,6 +26,10 @@ My Leetcode practice.
 
 ## Greedy
 
+### Medium
+
+- [1029. Two City Scheduling](/greedy/1029_two_city_scheduling.md)
+
 ## Sort
 
 ### Easy
