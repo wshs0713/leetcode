@@ -22,6 +22,10 @@ My Leetcode practice.
 
 ## Stack & Queue
 
+### Easy
+
+- [20. Valid Parentheses](/stack_queue/20_valid_parentheses.md)
+
 ## Heap
 
 ## Greedy
