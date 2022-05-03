@@ -18,6 +18,10 @@ My Leetcode practice.
 
 ## Linked List
 
+### Medium
+
+- [328. Odd Even Linked List](/linked_list/328_odd_even_linked_list.md)
+
 ## Hash
 
 ## Stack & Queue
@@ -74,6 +78,14 @@ My Leetcode practice.
 ## Graph
 
 ## Tree
+
+### Easy
+
+- [94. Binary Tree Inorder Traversal](/tree/94_binary_tree_inorder_traversal.md)
+
+### Medium
+
+- [102. Binary Tree Level Order Traversal](/tree/102_binary_tree_level_order_traversal.md)
 
 ## Math
 
