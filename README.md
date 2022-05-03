@@ -7,23 +7,36 @@ My Leetcode practice.
 ### Easy
 
 - [1. Two Sum](/array_string/1_two_sum.md)
+- [9. Palindrome Number](/array_string/9_palindrome_number.md)
 - [13. Roman to Integer](/array_string/13_roman_to_integer.md)
 - [14. Longest Common Prefix](/array_string/14_longest_common_prefix.md)
+- [26. Remove Duplicates from Sorted Array](/array_string/26_remove_duplicates_from_sorted_array.md)
 - [28. Implement strStr()](/array_string/28_implement_strStr.md)
 - [344. Reverse String](/array_string/344_reversed_string.md)
 - [1929. Concatenation of Array](/array_string/1929_concatenation_of_array.md)
 
 ### Medium
 
+- [3. Longest Substring Without Repeating Characters](/array_string/3_longest_substring_without_repeating_characters.md)
 - [5. Longest Palindromic Substring](/array_string/5_longest_palindromic_substring.md)
+- [8. String to Integer (atoi)](/array_string/8_string_to_integer_atoi.md)
 - [11. Container With Most Water](/array_string/11_container_with_most_water.md)
 - [81. Search in Rotated Sorted Array II](/array_string/81_search_in_rotated_sorted_array_ii.md)
 - [287. Find the Duplicate Number](/array_string/287_find_the_duplicate_number.md)
 
+### Hard
+
+- [4. Median of Two Sorted Arrays](/array_string/4_median_of_two_sorted_arrays.md)
+
 ## Linked List
+
+### Easy
+
+- [21. Merge Two Sorted Lists](/linked_list/21_merge_two_sorted_lists.md)
 
 ### Medium
 
+- [2. Add Two Numbers](/linked_list/2_add_two_numbers.md)
 - [328. Odd Even Linked List](/linked_list/328_odd_even_linked_list.md)
 
 ## Hash
