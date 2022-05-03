@@ -11,10 +11,14 @@ My Leetcode practice.
 - [14. Longest Common Prefix](/array_string/14_longest_common_prefix.md)
 - [28. Implement strStr()](/array_string/28_implement_strStr.md)
 - [344. Reverse String](/array_string/344_reversed_string.md)
+- [1929. Concatenation of Array](/array_string/1929_concatenation_of_array.md)
 
 ### Medium
 
 - [5. Longest Palindromic Substring](/array_string/5_longest_palindromic_substring.md)
+- [11. Container With Most Water](/array_string/11_container_with_most_water.md)
+- [81. Search in Rotated Sorted Array II](/array_string/81_search_in_rotated_sorted_array_ii.md)
+- [287. Find the Duplicate Number](/array_string/287_find_the_duplicate_number.md)
 
 ## Linked List
 
@@ -23,6 +27,11 @@ My Leetcode practice.
 - [328. Odd Even Linked List](/linked_list/328_odd_even_linked_list.md)
 
 ## Hash
+
+### Easy
+
+- [359. Logger Rate Limiter](/hash/359_logger_rate_limiter.md)
+- [706. Design HashMap](/hash/706_design_hashmap.md)
 
 ## Stack & Queue
 
@@ -50,6 +59,11 @@ My Leetcode practice.
 ### Easy
 
 - [104. Maximum Depth of Binary Tree](/dfs_bfs/104_maximum_depth_of_binary_tree.md)
+- [938. Range Sum of BST](/dfs_bfs/938_range_sum_of_bst.md)
+
+### Medium
+
+- [366. Find Leaves of Binary Tree](/dfs_bfs/366_find_leaves_of_binary_tree.md)
 
 ## Binary Search
 
